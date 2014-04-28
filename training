@@ -1,3 +1,7 @@
 git status
-git commit
+git commit -m "the first thing"
 git add -p 
+
+git commit -m "the 2nd thing"
+
+
