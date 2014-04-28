@@ -3,5 +3,21 @@ git commit -m "the first thing"
 git add -p 
 
 git commit -m "the 2nd thing"
+get diff
+touch index.html
+
+
+git add index.html
+git status
+git commit -m (will commit all the files - in stage)
+git reset HEAD index.htmo (unstage the file)
+git status
+(no only the index.html is staged)
+git diff (will show changes)
+
+git diff --staged --color-words   (change between stage and shopping cart of the file index.html)
+git status
+
+
 
 
